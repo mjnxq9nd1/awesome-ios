@@ -1,49 +1,20 @@
-# Awesome iOS
+# Contributing to Awesome iOS
 
-A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.
+Thank you for contributing! Please take a moment to review these guidelines before submitting a pull request.
 
-## Contents
+## Guidelines
 
-- [SwiftUI](#swiftui)
-- [Flutter](#flutter)
-- [Networking](#networking)
-- [UI](#ui)
-- [Database](#database)
-- [Testing](#testing)
+- **Quality**: Only submit high-quality, well-maintained libraries and tools.
+- **SwiftUI & Swift**: Projects using modern Swift standards and SwiftUI support are strongly encouraged.
+- **Formatting**: Add entries in alphabetical order under the appropriate category.
+- **Format**: `[Project Name](link) - Short description.`
+- **Build Status**: Ensure the project is active and builds with the latest Xcode release.
 
-## SwiftUI
+## Pull Request Checklist
 
-- [SwiftUI Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI.
-- [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
+1. Search existing entries to avoid duplicates.
+2. Check your spelling and grammar.
+3. Make sure the entry link points to the original repository.
+4. Provide a concise, clear description (avoid marketing jargon).
 
-## Flutter
-
-- [Flutter Awesome](https://github.com/Solido/awesome-flutter) - A curated list of Flutter resources.
-
-## Networking
-
-- [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP networking in Swift.
-- [Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
-
-## UI
-
-- [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
-- [IGListKit](https://github.com/Instagram/IGListKit) - A data-driven UICollectionView framework.
-
-## Database
-
-- [Realm](https://github.com/realm/realm-swift) - Realm is a mobile database that runs directly inside phones.
-- [CoreStore](https://github.com/JohnEstropia/CoreStore) - Powerful Core Data framework.
-
-## Testing
-
-- [Quick](https://github.com/Quick/Quick) - A behavior-driven development framework for Swift.
-- [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Thanks for helping keep Awesome iOS up to date!
