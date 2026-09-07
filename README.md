@@ -1,23 +1,13 @@
-# Contributing to Awesome iOS
+# Contributing Guidelines
 
-Thank you for taking the time to contribute!
+Thank you for considering contributing to Awesome iOS!
 
 ## Guidelines
 
-1. **Search before proposing**: Check if the library or tool is already listed or previously discussed in issues/PRs.
-2. **Quality over quantity**: Only submit high-quality libraries that are actively maintained and well-documented.
-3. **Formatting requirements**:
-   - Use the standard format: `* [Project Name](https://link) - Short description.`
-   - Keep descriptions concise, objective, and end with a period.
-   - Ensure framework names are properly capitalized (e.g., SwiftUI, RxSwift, Flutter).
-   - Avoid promotional language like "the best" or "ultimate".
-4. **Categorization**: Place your entry under the most relevant section in alphabetical order.
-5. **Requirements & Compatibility**: Mention minimum deployment targets if relevant (e.g., iOS 15+, SwiftUI-only).
+1. **Check for duplicates**: Please search the list before submitting a project.
+2. **Quality & Maintenance**: Ensure the repository is active, well-documented, and useful for the iOS community.
+3. **Swift Package Manager**: Including SPM support is strongly recommended for modern Swift libraries.
+4. **Formatting**: Use standard format: `* [Title](link) - Description ending with a period.`
+5. **Categorization**: Add your item to the appropriate category in alphabetical order.
 
-## Submitting a Pull Request
-
-- Provide a clear PR title and summary.
-- Submit one library per pull request to simplify code review.
-- Ensure all Markdown links work and pass automated checks.
-
-Thanks for helping keep Awesome iOS up to date!
+Thank you for helping keep this list awesome!
